@@ -1,0 +1,214 @@
+/** ----------------------------------------------------------------------------
+Theme Name: Twenty Ten Modificated Theme
+Theme URI: 
+Author: AZWebDDS
+Author URI: http://azwebdds.berozy.com
+Description: The CSS-file for Booking page Template
+Version: 1.01
+Status: Active developing
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: 
+Tags: 
+*/
+
+/** ----------------------------------------------------------------------------
+@file          : booking-page.css
+@description   : CSS-файл для шаблона Booking page
+*/
+
+/** ----------------------------------------------------------------------------
+Документ       : booking-page.css
+Версия         : v. 1.01 (01=alfa, 02=beta-test, PRO=prodaction)
+Статус         : Начальная разработка (Alfa)
+Билд           : b. 02
+Описание       : Шаблон для отдельных страниц типа Booking page в проекте
+               : Yacht Seamanship
+
+Создан         : 04.05.2013 - 03:15:44
+Закончен       : __.__.2013 - __:__
+
+Проект         : Сайт-блог Yacht Seamanship (на WP3)
+Автор          : AZWebDDS
+E-mail         : AZWebDDS <az.webdds@gmail.com>
+
+Инфо           : http://yachtseamanship.tk
+               : 
+*/
+
+/** ----------------------------------------------------------------------------
+План работы:
+TODO:
+@todo  - 
+
+NEW, FIXED and CORRECTED:
+@corr  Коррекция                                                   + v0.00 b00
+@fixed Исправлено                                                  + v0.00 b00
+@bug   Ошибка                                                      + v0.00 b00
+@new   Новое                                                       + v0.00 b00
+*/
+
+
+
+
+
+
+
+
+
+/** ----------------------------------------------------------------------------
+################################################################################
+############################  ОБЛАСТЬ  ТЕСТИРОВАНИЯ  ###########################
+################################################################################
+TODO:
+@todo - 
+*/
+
+/** ----------------------------------------------------------------------------
+Расширить область контента до 95%                                 + v1.01 b01
+(в этом шаблоне нет бокового меню)
+*/
+.page-template-page-templatesbooking-page-php #content {
+    text-align: justify;
+    width: 95%;
+}
+
+
+
+/** ----------------------------------------------------------------------------
+Стили оформления импортируемых таблиц                             + v1.01 b02
+(из Google Doc)
+*/
+/* Стиль Области легенды таблицы */
+.bp-legend iframe {
+    height: 65px;
+    margin-bottom: 0;
+    width: 318px;
+}
+/* Стиль Training Amateur RYA */
+.bp-training-amateur-rya-namecol iframe {
+    float: left;
+    height: 430px;
+    width: 384px;
+}
+.bp-training-amateur-rya-data iframe {
+    height: 430px;
+    width: 509px;
+}
+/* Стиль Training Amateur IYT */
+.bp-training-amateur-iyt-namecol iframe {
+    float: left;
+    height: 305px;
+    width: 384px;
+}
+.bp-training-amateur-iyt-data iframe {
+    height: 305px;
+    width: 509px;
+}
+/* Стиль Training Amateur ISS */
+.bp-training-amateur-iss-namecol iframe {
+    float: left;
+    height: 255px;
+    width: 384px;
+}
+.bp-training-amateur-iss-data iframe {
+    height: 255px;
+    width: 509px;
+}
+/* Стиль Training Pro RYA */
+.bp-training-pro-rya-namecol iframe {
+    float: left;
+    height: 245px;
+    width: 384px;
+}
+.bp-training-pro-rya-data iframe {
+    height: 245px;
+    width: 509px;
+}
+/* Стиль Inshore-Offshore Seamanship */
+.bp-seamanship-inshore-coastal-offshore-namecol iframe {
+    float: left;
+    height: 235px;
+    width: 384px;
+}
+.bp-seamanship-inshore-coastal-offshore-data iframe {
+    height: 235px;
+    width: 509px;
+}
+/* Стиль для Race */
+.bp-race-namecol iframe {
+    float: left;
+    height: 500px;
+    width: 384px;
+}
+.bp-race-data iframe {
+    height: 500px;
+    width: 509px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Стиль боковой области таблицы */
+.entry-content .yachtseamanship-training-var iframe {
+    float: left;
+    height: 825px;
+    width: 384px;
+}
+.entry-content .yachtseamanship-training-data iframe {
+    float: left;
+    height: 825px;
+    width: 536px;
+}
+
+
+
+
+
+
+
+
+
+
+/* Стиль ссылки на якорь перед footer                             + v1.01 b01 */
+/*.page-template-page-templatesbooking-page-php .anchor-link {
+    font-size: 0.8rem;
+    text-align: right;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** ----------------------------------------------------------------------------
+################################################################################
+###########################  ОБЛАСТЬ  ОСНОВНОГО  КОДА  #########################
+################################################################################
+*/
+
+/** ----------------------------------------------------------------------------
+Многострочный комментарий
+*/
+
+/* Однострочный комментарий, правка                               + v0.00 b00 */
+
+/* КОНЕЦ Название_Модуля */

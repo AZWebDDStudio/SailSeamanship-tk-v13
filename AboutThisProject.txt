@@ -1,0 +1,35 @@
+Yacht Seamanship and Regattas
+Версия 1.2 (beta)
+Word Press 3
+
+Морская практика на яхтах.
+Блог для яхтсменов с элементами простой обучающей системы (отдельные уроки)
+и простой социальной сети.
+
+Равнозначные web-адреса (с www и без):
+http://yachtseamanship.tk
+http://sailseamanship.tk
+
+Хостинг:
+FireHost /var/www/vhosts/c00066/TESTING/wp3/project-2013-06-25-yachtseamanship-12-test-my
+База данных проекта:
+https://cp.firehost.com.ua/phpmyadmin/index.php?db=c00066_test_wp3__my_yachtseamanship_v1
+
+Заказчик проекта:
+Собственный проект
+Администратор проекта:
+SuperAdmin.YachtSeamanship | b*****P2**4 | azwebdds@gmail.com
+
+Сервисы для проекта:
+Redmine http://redmine.berozy.com/projects/yacht-seamanship_v1_wp3
+Репозиторий Git https://code.google.com/p/yacht-seamanship-v12/source/browse/
+Bug-трекер см. репозиторий Git
+
+
+=====================================================================================
+Основные вехи проекта:
+
+next
+2014-03-08          Большая фиксация в репозиториях (в локальном и удалённом) 
+                    + BackUp на локальный компьютер (файлы и DBase)
+2013-06-25          Начало проекта

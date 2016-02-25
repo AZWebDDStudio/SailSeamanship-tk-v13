@@ -1,0 +1,67 @@
+/** ----------------------------------------------------------------------------
+Стили страниц с формами                                           + v2.01 b01
+*/
+
+/*Размеры внедряемого фрейма*/
+object {
+    height: 100%;
+    width: 100%;
+}
+
+/**
+Общий стиль форм
+*/
+body.feedback {
+    background: transparent;
+    color: #0073BA;
+    font-family: "Trebuchet MS";
+    font-size: 0.75rem;
+}
+.feedback {
+    /* width: 100%; */
+}
+.feedback form {
+    padding-top: 10px;
+}
+.feedback .form-title {
+    font: bold italic 1.3rem "Trebuchet MS";
+    margin-bottom: 10px;
+    text-align: center;    
+}
+.feedback .label {
+    font-weight: bold;
+}
+.feedback .table table {
+    margin: 0 auto;
+}
+.feedback .table td {
+    vertical-align: top;
+}
+.feedback .subscribe {
+    color: #5F5F5F;
+    font: italic 0.7rem Arial;
+    margin-bottom: 1rem;
+}
+
+/*Стиль полей*/
+.feedback input,
+.feedback select,
+.feedback textarea {
+    color: #5f5f5f;
+    font-size: 0.8rem;
+}
+.feedback textarea {
+    width: 99.5%;
+}
+.feedback .ok-message {
+    background-color: #487F47;
+    color: white;
+    font-size: 20px;
+    height: 80px;
+    margin-top: 100px;
+    padding-top: 10px;
+    text-align: center;
+}
+.feedback .note {
+    color: #EF2C46;
+}
